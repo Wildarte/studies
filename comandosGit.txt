@@ -1,0 +1,12 @@
+Aqui será listado alguns comandos do Git muito utilizados:
+
+git init = inicia um repositório;
+git log = abre o histórico de commits;
+git log --oneline = abre o histórico de commits em abrevituras (uma identificação dos hashs de cada commit exibindo apenas alguns digitos do commit)
+git log --graph = 
+git status = exibe o status dos arquivos, se foram alterados etc.
+git branch = identifica em qual ramo estamos, exemplo master.
+git checkout <numero de hash> = volta uma versão anterior.
+git checkout master = volta para a ultimaa versao do projeto.
+git diff = 
+git reset <hash> = 

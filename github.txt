@@ -1,0 +1,5 @@
+Estudo sobre github
+
+
+HEAD sempre vai ser o último commit
+A cada commit o git não cria um novo projeto, acontece que o git armazena apenas as alterações de forma inteligente
