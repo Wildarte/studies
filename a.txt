@@ -2,3 +2,8 @@ teste
 Entendendo o head
 
 Esta linha foi modificada no ramo master
+Entendendo o head
+
+fweffsfseef
+
+This line was modified
