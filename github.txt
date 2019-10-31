@@ -1,4 +1,4 @@
-Estudo sobre github
+﻿Estudo sobre github
 
 
 HEAD sempre vai ser o último commit
@@ -7,3 +7,6 @@ A cada commit o git não cria um novo projeto, acontece que o git armazena apena
 
 Branch
 São ramificações que permitem criar amificações do projeto sem fazer alterações no projeto inicial.
+
+
+O README é um dos documentos principais de um projeto de software, é um arquivo de texto onde você vai detalar seu projeto, no github o arquivo readme tem a expensão .md (mark down)
