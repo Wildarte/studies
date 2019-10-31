@@ -6,19 +6,19 @@ A cada commit o git não cria um novo projeto, acontece que o git armazena apena
 A cada commit o git não cria um novo projeto, acontece que o git armazena apenas as alterações de forma inteligente.
 
 Branch
-São ramificações que permitem criar amificações do projeto sem fazer alterações no projeto inicial.
+São ramificações que permitem criar ramificações do projeto sem fazer alterações no projeto inicial.
 
 
-O README é um dos documentos principais de um projeto de software, é um arquivo de texto onde você vai detalar seu projeto, no github o arquivo readme tem a expensão .md (mark down) também é usado como cartão de visita e ferramenta de divulgação.
+O README é um dos documentos principais de um projeto de software, é um arquivo de texto onde você vai detalhar seu projeto, no github o arquivo readme tem a expensão .md (mark down) também é usado como cartão de visita e ferramenta de divulgação.
 
 O Mark down é uma lignuagem de marcação usada para converter texto em html.
 
 Podemos usar o README.md para criar um documento de divulgação de um projeto de software.
 
-Kannan é um sistema visual de gerenciamento de projetos.
+Kanban é um sistema visual de gerenciamento de projetos.
 Kanban significa cartão ou cartões.
 
-Podemos simplicar o Kanban com três quadros
+Podemos simplicar o Kanban com três quadros:
 
 
 TO DO  |  IN PROGRESS  |  DONE
