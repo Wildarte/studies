@@ -9,4 +9,8 @@ Branch
 São ramificações que permitem criar amificações do projeto sem fazer alterações no projeto inicial.
 
 
-O README é um dos documentos principais de um projeto de software, é um arquivo de texto onde você vai detalar seu projeto, no github o arquivo readme tem a expensão .md (mark down)
+O README é um dos documentos principais de um projeto de software, é um arquivo de texto onde você vai detalar seu projeto, no github o arquivo readme tem a expensão .md (mark down) também é usado como cartão de visita e ferramenta de divulgação.
+
+O Mark down é uma lignuagem de marcação usada para converter texto em html.
+
+Podemos usar o README.md para criar um documento de divulgação de um projeto de software.
