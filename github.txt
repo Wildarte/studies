@@ -14,3 +14,11 @@ O README é um dos documentos principais de um projeto de software, é um arquiv
 O Mark down é uma lignuagem de marcação usada para converter texto em html.
 
 Podemos usar o README.md para criar um documento de divulgação de um projeto de software.
+
+Kannan é um sistema visual de gerenciamento de projetos.
+Kanban significa cartão ou cartões.
+
+Podemos simplicar o Kanban com três quadros
+
+
+TO DO  |  IN PROGRESS  |  DONE
